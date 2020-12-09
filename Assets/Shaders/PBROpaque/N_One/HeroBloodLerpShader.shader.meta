@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7de59acbd254d484cb4a97e259de997b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _HeroBloodyNormal: {fileID: 2800000, guid: 009a601cb8fa15a4daccaf5f07aaa95b, type: 3}
+  - _HeroNormal: {fileID: 2800000, guid: 7714133e9bbfdaf4a84ff741019850fe, type: 3}
+  - _HeroBloodyAlbedo: {fileID: 2800000, guid: 9c1d47708e779884c942fc6970a7da8e, type: 3}
+  - _HeroAlbedo: {fileID: 2800000, guid: 80f6031b8383e1841ae06186931c38df, type: 3}
+  - _HeroBloodyEmissive: {fileID: 2800000, guid: a05851e78322cf8408dd1ac46a4205f5,
+      type: 3}
+  - _HeroEmissive: {fileID: 2800000, guid: 8eaec95156094e64e8fade070fe74322, type: 3}
+  - _HeroBloodyMetallic: {fileID: 2800000, guid: 6811d0364d0de8b4e808c95242e19af2,
+      type: 3}
+  - _HeroMetallic: {fileID: 2800000, guid: d760b1cf5ea53f8479e8e005c69a6117, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

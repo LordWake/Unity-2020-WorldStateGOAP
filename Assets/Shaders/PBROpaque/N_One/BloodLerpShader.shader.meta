@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 9b2c3b362fe510f4d9a8ce85da13e50d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_Biomech_Mutant_Skin_1_Bottom_n: {fileID: 2800000, guid: c68f4db1e3d5696449456ad935d3330c,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GymBag
+  m_Shader: {fileID: 4800000, guid: c9ecc110262945c42927d8b3d4085e43, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlbedoTxt:
+        m_Texture: {fileID: 2800000, guid: 9cb87a79d88be494a8b7e9b467aa501d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissiveTxt:
+        m_Texture: {fileID: 2800000, guid: bc25714f3b589d142bdd9f788e98ac3d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicTxt:
+        m_Texture: {fileID: 2800000, guid: 7e968223d241a514d9789715681044b2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 0b855ef06cd4ebb4b9be196e20bf82b1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTxt:
+        m_Texture: {fileID: 2800000, guid: 0b855ef06cd4ebb4b9be196e20bf82b1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _NormalIntensity: 1
+    - _PunchHeight: -0.19
+    - _PunchIntensity: 0
+    - _PunchRange: 2.5
+    - __dirty: 0
+    m_Colors: []

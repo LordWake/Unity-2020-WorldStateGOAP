@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 411911abc90819942b2f7e0057ebf702
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Teleport_Teleport_Normal: {fileID: 2800000, guid: e6ff78efd40165149b8e18d5a9850aa0,
+      type: 3}
+  - _Teleport_Teleport_AlbedoTransparency: {fileID: 2800000, guid: 494d0329aa252bc448969c7fc70598f8,
+      type: 3}
+  - _Teleport_Teleport_Emission: {fileID: 2800000, guid: ac25cd40c0d6a344485e2a02893d3345,
+      type: 3}
+  - _Teleport_Teleport_MetallicSmoothness: {fileID: 2800000, guid: a6e2796ff8582e542a2e6b64d2ce54bc,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

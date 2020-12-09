@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HeroBloodLerpTOP
+  m_Shader: {fileID: 4800000, guid: 7de59acbd254d484cb4a97e259de997b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _HeroAlbedo:
+        m_Texture: {fileID: 2800000, guid: 80f6031b8383e1841ae06186931c38df, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeroBloodyAlbedo:
+        m_Texture: {fileID: 2800000, guid: 9c1d47708e779884c942fc6970a7da8e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeroBloodyEmissive:
+        m_Texture: {fileID: 2800000, guid: a05851e78322cf8408dd1ac46a4205f5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeroBloodyMetallic:
+        m_Texture: {fileID: 2800000, guid: 6811d0364d0de8b4e808c95242e19af2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeroBloodyNormal:
+        m_Texture: {fileID: 2800000, guid: 009a601cb8fa15a4daccaf5f07aaa95b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeroEmissive:
+        m_Texture: {fileID: 2800000, guid: 8eaec95156094e64e8fade070fe74322, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeroMetallic:
+        m_Texture: {fileID: 2800000, guid: d760b1cf5ea53f8479e8e005c69a6117, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HeroNormal:
+        m_Texture: {fileID: 2800000, guid: 7714133e9bbfdaf4a84ff741019850fe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BloodAmount: 1
+    - __dirty: 0
+    m_Colors: []

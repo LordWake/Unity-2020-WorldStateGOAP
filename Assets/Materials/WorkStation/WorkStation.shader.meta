@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 539cfff8bb7950f41921a949b5d9614b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _WorkStation_lambert1_Normal: {fileID: 2800000, guid: 1188ae87816b7ff40853d6f41646dcfc,
+      type: 3}
+  - _WorkStation_lambert1_AlbedoTransparency: {fileID: 2800000, guid: 882e6b1fa8624c34db571f0efac80acd,
+      type: 3}
+  - _WorkStation_lambert1_Emission: {fileID: 2800000, guid: b175bb26a81540a4aaf27005d84096bf,
+      type: 3}
+  - _WorkStation_lambert1_MetallicSmoothness: {fileID: 2800000, guid: daac505562ad76f48bbf8be39330fa73,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
